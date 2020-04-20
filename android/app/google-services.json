@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "265153454346",
+    "firebase_url": "https://med-app-ca039.firebaseio.com",
+    "project_id": "med-app-ca039",
+    "storage_bucket": "med-app-ca039.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265153454346:android:9999d51a88b44b7979daf3",
+        "android_client_info": {
+          "package_name": "com.example.medcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265153454346-lonj7sec1kpe314ogdasg4vo9beckppg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz_hUxj1JfefSiVMbLieiVSG9P2DdhCEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265153454346-lonj7sec1kpe314ogdasg4vo9beckppg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
